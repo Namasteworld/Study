@@ -1,0 +1,4 @@
+To study the diff b/w rm and reset.
+rm for unstaging new file
+reset for unstaging already existing and modified file.
+This should work
